@@ -1,0 +1,2 @@
+.loader{--lite:transparent;--brand:#000;--size:16px;box-sizing:border-box;width:var(--size);height:var(--size);border:2px solid var(--brand);border-bottom-color:var(--lite);border-radius:50%;display:inline-block;animation:rotation 1s linear infinite}@keyframes rotation{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}
+/*# sourceMappingURL=main.71eb34d3.chunk.css.map */
